@@ -2,8 +2,6 @@
 
 Live Demo : https://movieappproject.herokuapp.com/
 
-As .gitignore ignore node_modules/. Below is a link to download Project with node_modules/.
-
 Google Drive Link : https://goo.gl/WcZEc3
 
 ## Available Commands
